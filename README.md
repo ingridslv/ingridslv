@@ -12,9 +12,7 @@
 
 </div>
 
-<p align="center">
-Me chamo <b>Ingrid Marcela Arnaud da Silva</b>, sou de Belém, Pará, e curso <b>Computação na Universidade Federal Rural da Amazônia - UFRA (licenciatura)</b>. Sou <b>Desenvolvedora Web Fullstack</b> e estou sempre estudando e aprimorando minhas habilidades em tecnologia. Tenho experiência com <b>desenvolvimento e manutenção de aplicações web com foco em frontend e UI/UX</b>, atuando em projetos reais desde o desenvolvimento até a entrega e manutenção das soluções. Também tenho experiência com <b>metodologias ágeis</b> e trabalho colaborativo em equipes de tecnologia.
-</p>
+<p align="center"> My name is <b>Ingrid Marcela Arnaud da Silva</b>, I’m from Belém, Pará, Brazil, and I’m pursuing a <b>Licentiate Degree in Computing at the Federal Rural University of the Amazon - UFRA</b>. I’m a <b>Full-Stack Web Developer</b> who is constantly learning and improving my skills in technology. I have experience in <b>developing and maintaining web applications, with a focus on frontend development and UI/UX</b>, working on real-world projects from development to delivery and maintenance. I also have experience with <b>agile methodologies</b> and collaborative work within technology teams. </p>
 
 <div align="center">
 
