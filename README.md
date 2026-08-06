@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ingridslv/repositorio-imagens/refs/heads/main/assets/img/portifolio/background.png" width="100%" alt="Welcome to Ingrid's Github"/>
+<img src="https://raw.githubusercontent.com/ingridslv/repositorio-imagens/refs/heads/main/assets/img/portifolio/backgroundd.png" width="100%" alt="Welcome to Ingrid's Github"/>
 
 </div>
 
