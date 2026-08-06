@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-Me chamo <b>Ingrid Marcela Arnaud da Silva</b>, sou de Belém, Pará, e curso <b>Computação na UFRA (licenciatura)</b>. Sou <b>Desenvolvedora Web Fullstack</b> e estou sempre estudando e aprimorando minhas habilidades em tecnologia. Tenho experiência com <b>desenvolvimento e manutenção de aplicações web com foco em frontend e UI/UX</b>, atuando em projetos reais desde o desenvolvimento até a entrega e manutenção das soluções. Também tenho experiência com <b>metodologias ágeis</b> e trabalho colaborativo em equipes de tecnologia.
+Me chamo <b>Ingrid Marcela Arnaud da Silva</b>, sou de Belém, Pará, e curso <b>Computação na Universidade Federal Rural da Amazônia - UFRA (licenciatura)</b>. Sou <b>Desenvolvedora Web Fullstack</b> e estou sempre estudando e aprimorando minhas habilidades em tecnologia. Tenho experiência com <b>desenvolvimento e manutenção de aplicações web com foco em frontend e UI/UX</b>, atuando em projetos reais desde o desenvolvimento até a entrega e manutenção das soluções. Também tenho experiência com <b>metodologias ágeis</b> e trabalho colaborativo em equipes de tecnologia.
 </p>
 
 <div align="center">
