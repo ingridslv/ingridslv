@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="center">◎ Linguagens e Tecnologias</h3>
+<h3 align="center">◎ Technologies Stack</h3>
 
 <hr>
 
